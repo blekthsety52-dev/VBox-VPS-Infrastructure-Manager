@@ -1,0 +1,5 @@
+{
+  "name": "VBox VPS Infrastructure Manager",
+  "description": "A production-grade management interface for VirtualBox-based VPS infrastructure, featuring automated provisioning, monitoring, security hardening, and backup management.",
+  "requestFramePermissions": []
+}
